@@ -137,6 +137,19 @@ z-index: 10;
     text-shadow: 0 0 5px rgba(255, 252, 227, 0.696);
 }
 
+.new__content {
+    position: absolute;
+    margin-right: -9cm;
+    margin-top: 2cm;
+}
+
+.button {
+    position: absolute;
+    margin-right: -7cm;
+    margin-top: 16cm;
+    
+}
+
 .links__telegram {
     position: absolute;
     bottom: calc(var(--index) * 1.5);
